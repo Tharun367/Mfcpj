@@ -1,0 +1,14 @@
+body
+{
+background-image: 
+url("../images/img2.jpg");
+background-size: cover;
+background-position: center;
+font-family: Times new roman;
+font-size: 30px;
+font-display: fallback;
+font-style: oblique;
+}
+a{
+    text-decoration: none;
+}
